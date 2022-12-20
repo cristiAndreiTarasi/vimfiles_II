@@ -1,0 +1,49 @@
+{
+    "languageserver": {
+        "coc-clangd": {
+            "command": "clangd"
+        }
+    },
+    "suggest.noselect": true,
+    "suggest.completionItemKindLabels": {
+        "variable": "",
+        "constant": "",
+        "class": "",
+        "interface": "",
+        "text": "",
+        "enum": "",
+        "enumMember": "",
+        "color": "",
+        "property": "",
+        "field": "",
+        "unit": "",
+        "file": "",
+        "value": "\uf8a3",
+        "event": "",
+        "folder": "",
+        "keyword": "",
+        "snippet": "",
+        "operator": "",
+        "reference": "",
+        "typeParameter": "",
+        "default": "",
+        "function": "",
+        "method": ""
+    },
+    "colors.enable": true,
+    "coc.preferences.bracketEnterImprove": true,
+    "dialog.rounded": true,
+    "javascript.showUnused": true,
+    "javascript.suggest.paths": true,
+    "javascript.showDeprecated": true,
+    "javascript.autoClosingTags": true,
+    "javascript.suggest.autoImports": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "diagnostic.errorSign": "",
+    "diagnostic.warningSign": "",
+    "diagnostic.infoSign": "",
+    "diagnostic.hintSign": "",
+    "diagnostic.showUnused": true,
+    "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/15.0.6/clangd_15.0.6/bin/clangd"
+}
+
